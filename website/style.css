@@ -1,0 +1,30 @@
+body {
+    margin:0px;
+    height:100vh;
+    background-image: url('../images/background-image.jpg');
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+.mainpage {
+    text-align:center;
+    color:#FFFFFF;
+}
+
+.input {
+    border-radius:10px;
+    padding:10px;
+    border:1px solid black;
+    margin:10px;
+}
+button {
+    border-radius:8px;
+    padding:10px;
+    
+    border:none;
+}
+button:hover {
+    background-color: rgb(81, 147, 221);
+}
+.entryholder {
+    padding-top:40px;
+}
