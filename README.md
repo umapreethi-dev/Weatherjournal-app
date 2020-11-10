@@ -11,20 +11,15 @@ This app provides the current weather of location when the user enters the Zipco
 This app is running on localserver.
 Node should be installed. For getting your personal API, signup at [OpenWeatherMap](https://openweathermap.org/api).
 # Installation
-To install node
+To install necessary packages
 > npm install
-
-To install express
-> npm install express
-
-To install body-parser
-> npm install body-parser
-
-To install cors
-> npm install cors
-# Run the Code
+# To Run the server
 To check the node in current version
 > node -version
 
 To run the server
 > node server.js (js server file)
+
+# To view the application in the browser
+
+>  Go to localhost:8000
